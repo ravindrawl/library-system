@@ -38,6 +38,10 @@ LARAVEL v11.30.0  plugin v1.0.5
 ## Running the Application
        - Open your browser and navigate to http://localhost:8000 to see the application running.
 ##
+### Reguister New user URL
+    http://127.0.0.1:8000/register
+##
+##
 Author : Ravindra wimalasiri 
 Date   : 2024/11/12 
 ##
